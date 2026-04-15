@@ -45,7 +45,7 @@ six==1.17.0
 smmap==5.0.3
 streamlit==1.56.0
 tenacity==9.1.4
-tensorflow==2.21.0
+tensorflow-cpu==2.15.0
 termcolor==3.3.0
 toml==0.10.2
 tornado==6.5.5
